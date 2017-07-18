@@ -9,7 +9,7 @@
 
 .logo {
   display: inline-block;
-  padding: 30px;
+  padding: 25px;
 }
 
 .paragraphs {
@@ -21,8 +21,13 @@
   font-family: 'Slabo 27px', serif;
   font-size: xx-large;
   padding: 0px 0px 20px 20px;
+  line-height: 100%;
 }
 
 .body-paragraph1, .body-paragraph2, .links {
   padding: 0px 0px 20px 20px;
+  display: inline-block;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 120%;
+  font-size: large;
 }
