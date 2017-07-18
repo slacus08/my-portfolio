@@ -5,3 +5,24 @@
   height:100%;
   z-index: 9999;
 }
+
+
+.logo {
+  display: inline-block;
+  padding: 30px;
+}
+
+.paragraphs {
+  float: right;
+  width: 50%;
+}
+
+.intro {
+  font-family: 'Slabo 27px', serif;
+  font-size: xx-large;
+  padding: 0px 0px 20px 20px;
+}
+
+.body-paragraph1, .body-paragraph2, .links {
+  padding: 0px 0px 20px 20px;
+}
