@@ -6,7 +6,6 @@
   z-index: 9999;
 }
 
-
 .logo {
   display: inline-block;
   padding: 25px;
@@ -64,7 +63,6 @@
     padding: 20px;
     float:left;
     width: 100%;
-}
-
+  }
 
 }
